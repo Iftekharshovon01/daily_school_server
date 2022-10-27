@@ -17,5 +17,12 @@
     "name": "Math",
     "image":"https://img.freepik.com/free-vector/maths-chalkboard_23-2148178219.jpg?size=626&ext=jpg",
     "details":"Mathematics (from Ancient Greek μάθημα; máthēma: 'knowledge, study, learning') is an area of knowledge that includes such topics as numbers (arithmetic and number theory),[2] formulas and related structures (algebra),[3] shapes and the spaces in which they are contained (geometry),[2] and quantities and their changes (calculus and analysis).[4][5][6] Most mathematical activity involves the use of pure reason to discover or prove the properties of abstract objects, which consist of either abstractions from nature or—in modern mathematics—entities that are stipulated with certain properties, called axioms. A mathematical proof consists of a succession of applications of some deductive rules to already known results, including previously proved theorems, axioms and (in case of abstraction from nature) some basic properties that are considered as true starting points of the theory under consideration."
+  },
+  {
+    "id": "04",
+    "name": "Social Sicence",
+    "image":"https://us.123rf.com/450wm/andreisavko/andreisavko2010/andreisavko201000768/158117145-wooden-cubes-with-the-abbreviation-social-science-on-the-background-of-an-open-book-.jpg?ver=6",
+    "details":"Social science is one of the branches of science, devoted to the study of societies and the relationships among individuals within those societies. The term was formerly used to refer to the field of sociology, the original science of society, established in the 19th century. In addition to sociology, it now encompasses a wide array of academic disciplines, including anthropology, archaeology, economics, human geography, linguistics, management science, communication science, political science and psychology.[1]"
   }
+
 ]
