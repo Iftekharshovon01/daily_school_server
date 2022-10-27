@@ -11,6 +11,11 @@
     "name": "English",
     "image":"https://www.istockphoto.com/vector/english-gm1047570732-280210147",
     "details":"English is a West Germanic language of the Indo-European language family, with its earliest forms spoken by the inhabitants of early medieval England.[3][4][5] It is named after the Angles, one of the ancient Germanic peoples that migrated to the island of Great Britain. English is genealogically West Germanic, closest related to the Low Saxon and Frisian languages; however, its vocabulary is also distinctively influenced by dialects of French (about 29% of modern English words) and Latin (also about 29%), plus some grammar and a small amount of core vocabulary influenced by Old Norse (a North Germanic language).[6][7][8] Speakers of English are called Anglophones."
+  },
+  {
+    "id": "03",
+    "name": "Math",
+    "image":"https://img.freepik.com/free-vector/maths-chalkboard_23-2148178219.jpg?size=626&ext=jpg",
+    "details":"Mathematics (from Ancient Greek μάθημα; máthēma: 'knowledge, study, learning') is an area of knowledge that includes such topics as numbers (arithmetic and number theory),[2] formulas and related structures (algebra),[3] shapes and the spaces in which they are contained (geometry),[2] and quantities and their changes (calculus and analysis).[4][5][6] Most mathematical activity involves the use of pure reason to discover or prove the properties of abstract objects, which consist of either abstractions from nature or—in modern mathematics—entities that are stipulated with certain properties, called axioms. A mathematical proof consists of a succession of applications of some deductive rules to already known results, including previously proved theorems, axioms and (in case of abstraction from nature) some basic properties that are considered as true starting points of the theory under consideration."
   }
-
 ]
